@@ -1,0 +1,2 @@
+<h2>地図から探す</h2>
+<iframe src="/japan.php" width="100%" height="450" class="map"></iframe>
